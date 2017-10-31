@@ -1,2 +1,2 @@
 # BoyWallker.github.io
-latihan pertama
+website pertama
